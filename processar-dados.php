@@ -1,5 +1,5 @@
 <?php
-require_once 'config.php';
+require_once './config.php';
 
 //PEGANDO OS DADOS VINDOS DO FORMULÁRIO
 $nome = $_POST['nome'];
